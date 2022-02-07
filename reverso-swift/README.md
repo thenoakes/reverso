@@ -1,3 +1,8 @@
+```
+swift run reverso matthew
+```
+Seems to take a long time!
+
 # reverso
 
 A description of this package.

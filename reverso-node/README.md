@@ -1,3 +1,7 @@
+```
+npm start -- matthew
+```
+
 - Hashbang in index.js
 - main property in package.json which points to index.js
 - `npm link` symlinks index.js to $PATH so you can run using the `bin` name
